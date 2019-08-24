@@ -4,4 +4,6 @@
 - npm install
 
 - npm start
+
++ your server started at localhost:1234
 ```
