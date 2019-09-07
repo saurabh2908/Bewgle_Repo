@@ -1,1 +1,1 @@
-app.constant("URL","https://raw.githubusercontent.com/MayankHarbola/Data/master/data.json?token=AIS6YYFEJIRMEUNKGMFLRNK5M4CE4");
+app.constant("URL","https://raw.githubusercontent.com/saurabh2908/JSON/master/myJSON?token=AKOJGI6VYV47JLHKKJVAARC5PSJUS");
